@@ -54,11 +54,3 @@ npm run dev
 Contributing
 
 Contributions are welcome—especially in Swahili localization, mobile development, and smart contract security audits.
-
-License
-
-MIT License
-
-Note
-
-This project is independently developed and not affiliated with any Tanzanian government body. Institutions interested in piloting Chuo-Vote are encouraged to get in touch.
